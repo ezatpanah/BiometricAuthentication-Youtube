@@ -8,7 +8,7 @@ YouTube Video :
 
 Medium's Article :
 <br>
-https://blog.devgenius.io/how-to-use-biometric-authentication-in-kotlin-9885f372230f
+https://medium.com/@ezatpanah/how-to-use-biometric-authentication-in-kotlin-9885f372230f
 
 ✨ Join Medium to read thousands of valuable stories ✨
 <br>

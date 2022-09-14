@@ -5,3 +5,12 @@ YouTube Video :
 <br>  
 <a href="https://youtu.be/1VrqUFlW1yA" target="_blank"><img alt="Ezatpanah BiometricAuthentication-Youtube" src="BiometricAuthentication.jpg" width="60%"></a>
 <br>
+
+Medium's Article :
+<br>
+https://blog.devgenius.io/how-to-use-biometric-authentication-in-kotlin-9885f372230f
+
+✨ Join Medium to read thousands of valuable stories ✨
+<br>
+https://medium.com/@ezatpanah/membership
+
